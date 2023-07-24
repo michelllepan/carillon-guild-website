@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About the Carillon
-order: 1
+title: Guild Members
+order: 3
 ---
 
 <p class="message">

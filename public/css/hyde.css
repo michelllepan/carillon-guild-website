@@ -56,7 +56,7 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
+  color: rgba(0,0,0,.5);
   background-color: #202020;
 }
 @media (min-width: 48em) {
@@ -71,16 +71,28 @@ html {
 }
 
 /* Sidebar links */
+h1.sidebar:hover,
+h1.sidebar:focus {
+  text-decoration: none;
+}
 .sidebar a {
-  color: #fff;
+  color: #444;
+}
+.sidebar p {
+  font-size: 0.8rem;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #fff;
+  color: #111;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-size: 2rem;
+}
+
+h1.sidebar-about:hover,
+h1.sidebar-about:focus {
+  text-decoration: none;
 }
 
 /* Sidebar nav */
@@ -176,6 +188,15 @@ a.sidebar-nav-item:focus {
  */
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */
+
+/* Custom */
+.theme-custom .sidebar {
+  background-color: #fff;
+}
+.theme-custom .content a,
+.theme-custom .related-posts li a:hover {
+  color: #222;
+}
 
 /* Red */
 .theme-base-08 .sidebar {
