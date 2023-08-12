@@ -6,7 +6,9 @@ order: 2
 
 *So you want to play the bells?*
 
-To learn, you pick one of two paths: the Decal taught by the Berkeley Carillon Guild, or formal instruction with the University Carillonist. Both options are enriching, but it depends what you want from this experience.
+<p class="message">
+  To learn, you pick one of two paths: the Decal taught by the Berkeley Carillon Guild, or formal instruction with the University Carillonist. Both options are enriching, but it depends what you want from this experience.
+</p>
 
 ### The DeCal
 
