@@ -5,7 +5,7 @@ title: Home
 
 Welcome to the website of the Berkeley Carillon Guild! Get started by learning about [the carillon](/about), [the guild](/guild), or [how you can get involved](/playing).
 
-Concerts are at 7:50am, noon, and 6pm for 10 minutes from Monday to Friday. We also play a 10 minute 12 pm concert on Saturdays and an hour-long recital on Sundays at 2pm, with programs available in front of Sather Tower.
+Concerts are at 7:50am, noon, and 6pm for 10 minutes from Monday to Friday. We also play a 10 minute noon concert on Saturdays and an hour-long recital on Sundays at 2pm, with programs available in front of Sather Tower for the latter.
 
 ___
 
