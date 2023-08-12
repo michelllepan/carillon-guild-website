@@ -4,28 +4,16 @@ title: About the Carillon
 order: 1
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+From the Guild of Carillonneurs in North America:
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+> A carillon is a musical instrument composed of at least 23 carillon bells, arranged in chromatic sequence, so tuned as to produce concordant harmony when many bells are sounded together. It is played from a keyboard that allows expression through variation of touch. The keys are struck with the half-closed hand. In addition, the larger bells are connected to foot pedals.
 
-There are currently two themes built on Poole:
+Berkeley's carillon was originally a 12-bell chime from the Taylor bellfoundry in 1917. It was expanded with Paccard bells in 1978 by the Class of 1928 (thus renaming the instrument 'Class of 1928 Carillon'). It now has sixty-one (61) bells with a keyboard console designed by Richard Strauss, due to a generous donation by Jerry and Evelyn Chambers. 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+![bells](/assets/bells.png)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+The Chambers donation also endows a full-time University Carillonist position, who manages daily recitals and teaches carillon on campus. Jeff Davis is the third such Carillonist, after Ronald Barnes and Geert D'hollander. Teaching and practice time is held inside Sather Tower, on a practice console (that rings metal pipes instead of large bells).
 
-## Setup
+During the school year, there is a weekly recital schedule. The carillon is played at 7:50am, 12 noon, and 6pm for ten minutes from Monday to Saturday. On Sundays, a one-hour concert is scheduled, with programs available at the front door of the tower. On Friday and Saturday evenings until 7pm, carillon students are practicing, working out last kinks in their performances.
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Sather Tower is typically open to the public during the day (except for Sunday concerts), and you can watch the noon recitalists from the observation deck.
