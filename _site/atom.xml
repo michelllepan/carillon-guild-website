@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Berkeley Carillon Guild</title>
- <link href="https://bells.berkeley.edu/atom.xml" rel="self"/>
- <link href="https://bells.berkeley.edu/"/>
- <updated>2023-08-12T04:02:20-07:00</updated>
- <id>https://bells.berkeley.edu</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2024-05-13T17:27:19-07:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>9th Berkeley Carillon Festival</title>
-   <link href="https://bells.berkeley.edu/2023/08/11/festival/"/>
+   <link href="http://localhost:4000/2023/08/11/festival/"/>
    <updated>2023-08-11T00:00:00-07:00</updated>
-   <id>https://bells.berkeley.edu/2023/08/11/festival</id>
+   <id>http://localhost:4000/2023/08/11/festival</id>
    <content type="html">&lt;p&gt;We will be hosting the 9th Berkeley Carillon Festival on August 12-13, 2023. With recitals at noon and 2pm on both Saturday and Sunday, this is our way to celebrate new and long-standing members of our extended carillon community at Berkeley.&lt;/p&gt;
 
 &lt;p&gt;View the program &lt;a href=&quot;https://drive.google.com/file/d/1bXZ-jYu9cVuY2Qp_ZZO_OUyRh1kfDrAw/view?usp=sharing&quot;&gt;here&lt;/a&gt; to read about our upcoming music and performers!&lt;/p&gt;
@@ -33,9 +33,9 @@
  
  <entry>
    <title>GCNA Congress 2023</title>
-   <link href="https://bells.berkeley.edu/2023/06/14/congress/"/>
+   <link href="http://localhost:4000/2023/06/14/congress/"/>
    <updated>2023-06-14T00:00:00-07:00</updated>
-   <id>https://bells.berkeley.edu/2023/06/14/congress</id>
+   <id>http://localhost:4000/2023/06/14/congress</id>
    <content type="html">&lt;p&gt;The 80th annual GCNA Congress was held at St. Stephen&amp;#39;s Church in Cohasset, Massachusetts.&lt;/p&gt;
 
 &lt;p&gt;From Berkeley, Erika Anderson, Peter Trost, Brunston Poon, and Anna Zhao were in attendance, as were Jeff Davis, the University Carillonist, and Dave Hunsberger, Assistant Carillonist.&lt;/p&gt;
@@ -48,9 +48,9 @@
  
  <entry>
    <title>GCNA Congress 2022</title>
-   <link href="https://bells.berkeley.edu/2022/06/12/congress/"/>
+   <link href="http://localhost:4000/2022/06/12/congress/"/>
    <updated>2022-06-12T00:00:00-07:00</updated>
-   <id>https://bells.berkeley.edu/2022/06/12/congress</id>
+   <id>http://localhost:4000/2022/06/12/congress</id>
    <content type="html">&lt;p&gt;The 79th annual GCNA Congress was held at the University of Chicago.&lt;/p&gt;
 
 &lt;p&gt;From Berkeley, Erika Anderson, Brunston Poon, Assistant Carillonist Dave Hunsberger, and alumni Leslie Chan, Kunal Marwaha, &amp;amp; Arman Arbab were in attendance.&lt;/p&gt;
