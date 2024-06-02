@@ -9,6 +9,13 @@ Concerts are at 7:50am, noon, and 6pm for 10 minutes from Monday to Friday. We a
 
 ___
 
+During the weekend of June 29-30, we will be holding the <b>10th Berkeley Carillon Festival</b>!
+Bring your picnic blankets and join us for concerts at noon and 2pm each day.
+
+Stay tuned for more details :)
+
+___
+
 <div style="display: flex; flex-direction: row; align-items: center; flex-wrap: wrap">
     <a target="_blank" href="https://www.ocf.berkeley.edu" style="margin-right: 10px">
         <img src="http://www.ocf.berkeley.edu/hosting-logos/ocf-hosted-penguin.svg"
