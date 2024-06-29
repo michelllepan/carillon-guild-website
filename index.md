@@ -11,7 +11,7 @@ ___
 
 During the weekend of June 29-30, we will be holding the <b>10th Berkeley Carillon Festival</b>!
 Bring your picnic blankets and join us for concerts at noon and 2pm each day.
-Programs will be available outside the tower.
+Programs will be available outside the tower or can be viewed digitally [at this link](https://drive.google.com/file/d/1lg1oXuK03_zxvI4OzPNhBb88hw9WIkGg/view).
 
 <img src="/assets/bcf24-flyer.png" width="50%">
 
