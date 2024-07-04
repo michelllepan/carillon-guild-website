@@ -4,16 +4,21 @@ title: Home
 ---
 
 Welcome to the website of the Berkeley Carillon Guild! Get started by learning about [the carillon](/about), [the guild](/guild), or [how you can get involved](/playing).
+___
 
-Concerts are at 7:50am, noon, and 6pm for 10 minutes from Monday to Friday. We also play a 10 minute noon concert on Saturdays and an hour-long recital on Sundays at 2pm, with programs available in front of Sather Tower for the latter.
+During the fall and spring semesters, our recital schedule is:
+
+- Monday through Saturday: 10-minute recitals at 7:50am, 12pm, and 6pm
+- Sunday: 45-minute recital at 2pm (programs available at the front of Sather Tower)
+
+Recitals are subject to carillonist availability; feel free to contact calbells@gmail.com with questions about specific recitals! 
+We sometimes organize themed recitals, which we post about on our Instagram [@ucbells](https://www.instagram.com/ucbells/).
 
 ___
 
-During the weekend of June 29-30, we will be holding the <b>10th Berkeley Carillon Festival</b>!
-Bring your picnic blankets and join us for concerts at noon and 2pm each day.
-Programs will be available outside the tower or can be viewed digitally [at this link](https://drive.google.com/file/d/1lg1oXuK03_zxvI4OzPNhBb88hw9WIkGg/view).
+You may also hear the bells ring on Friday, Saturday, and Sunday evenings throughout the school year as they are used for practice and instruction.
 
-<img src="/assets/bcf24-flyer.png" width="50%">
+During the summer, we occasionally play at the times listed above but do not follow a regular schedule.
 
 ___
 
