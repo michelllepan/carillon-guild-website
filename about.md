@@ -14,6 +14,4 @@ Berkeley's carillon was originally a 12-bell chime from the Taylor bellfoundry i
 
 The Chambers donation also endows a full-time University Carillonist position, who manages daily recitals and teaches carillon on campus. Jeff Davis is the third such Carillonist, after Ronald Barnes and Geert D'hollander. Teaching and practice time is held inside Sather Tower, on a practice console (that rings metal pipes instead of large bells).
 
-During the school year, there is a weekly recital schedule. The carillon is played at 7:50am, 12 noon, and 6pm for ten minutes from Monday to Saturday. On Sundays, a one-hour concert is scheduled, with programs available at the front door of the tower. On Friday and Saturday evenings until 7pm, carillon students are practicing, working out last kinks in their performances.
-
-Sather Tower is typically open to the public during the day (except for Sunday concerts), and you can watch the noon recitalists from the observation deck.
+Sather Tower is typically open to the public during the day (except for Sunday concerts), and you can watch the noon recitalists from the observation deck. Check the [Berkeley Visitor Services website](https://visit.berkeley.edu/campus-attractions/campanile) for more details about the hours of operation!
