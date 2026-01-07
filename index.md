@@ -11,7 +11,7 @@ During the fall and spring semesters, our recital schedule is:
 - Monday through Saturday: 10-minute recitals at 7:50am, 12pm, and 6pm
 - Sunday: 45-minute recital at 2pm (programs available at the front of Sather Tower)
 
-Recitals are subject to carillonist availability; feel free to contact calbells@gmail.com with questions about specific recitals! 
+Recitals are subject to carillonist availability; feel free to contact calbells@gmail.com and/or message us on Instagram with questions about specific recitals! 
 We sometimes organize themed recitals, which we post about on our Instagram [@ucbells](https://www.instagram.com/ucbells/).
 
 ___
