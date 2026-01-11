@@ -4,6 +4,7 @@ title: Home
 ---
 
 Welcome to the website of the Berkeley Carillon Guild! Get started by learning about [the carillon](/about), [the guild](/guild), or [how you can get involved](/playing).
+
 ___
 
 During the fall and spring semesters, our recital schedule is:
