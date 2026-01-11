@@ -20,7 +20,7 @@ Kevin Wen *(Ph.D. Physics '29)*
 [Simone Browne](https://simone-browne.com), *Interim University Carillonist*  
 Brunston Poon, *Assistant Carillonist*  
 Erika Anderson, *Associate Carillonist*  
-Brian Tang, *Associate Carillonist* 
+Brian Tang, *Associate Carillonist*  
 Peter Trost, *Associate Carillonist*  
 Annie Gao, *Associate Carillonist*  
 [Michelle Pan](https://michelle.computer), *Associate Carillonist*  
